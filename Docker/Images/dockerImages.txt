@@ -1,0 +1,2 @@
+docker build Dockerfile -t {tag}	-	Build the Dockerfile
+docker push {tag}			-	Push the docker to dockerhub
