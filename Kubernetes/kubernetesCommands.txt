@@ -1,0 +1,4 @@
+kubectl version				-	check the version
+kubectl --help				-	get help
+kubectl get nodes			-	see the list of nodes in your cluster
+kubectl get nodes -o wide		-	get more information of nodes
