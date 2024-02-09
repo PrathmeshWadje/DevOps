@@ -1,0 +1,7 @@
+echo ""				-	print anything on terminal
+mkdir <folder-name>		-	create a folder
+vim <file-name>			-	open file in vim editor
+chmod 7	 <file-name>		-	give read, write and execute permission to the file
+chmod 75 <file-name>		-	give read and execute permission to the file
+chmod 754 <file-name>		-	give read permission to the file
+./<file-name>			-	command to execute the file
